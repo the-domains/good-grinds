@@ -1,0 +1,28 @@
+name: Good Grinds
+favicon: null
+layout_spectrum: 0.3039699103683233
+typography_spectrum: 0.4246050650253892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6372702054213732
+  lightness: 0.9177692299708724
+  saturation: 0.317121519241482
+  rhythmicContrast: 0.773195103276521
+purpose: []
