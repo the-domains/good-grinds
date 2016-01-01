@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-11T01:36:29.596Z'
-dateModified: '2015-12-11T01:36:10.610Z'
+datePublished: '2016-01-01T00:16:49.620Z'
+dateModified: '2016-01-01T00:16:14.976Z'
 title: Iced Americano - White Squirrel
 author: []
+sourcePath: _posts/2015-12-11-iced-americano-white-squirrel.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-11-iced-americano-white-squirrel.md
-published: true
-url: iced-americano-white-squirrel/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Iced Americano - White Squirrel
